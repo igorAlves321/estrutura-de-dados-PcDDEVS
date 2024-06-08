@@ -1,0 +1,4 @@
+nome
+telefone
+
+relacao entre nome e telefone, criar um nó
